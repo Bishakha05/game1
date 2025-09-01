@@ -1,2 +1,2 @@
-# game1
-An aim trainer
+<p>This is an interactive Aim Trainer game built using Python and Pygame. The project features randomized target generation, precise collision detection and real-time performance analytics, showcasing strong skills in OOP, game logic and user-focused design.</p>
+<p> This project not only demonstrates my ability to combine programming logic with graphical interfaces but also highlights my focus on creating interactive, performance driven applications.</p>
